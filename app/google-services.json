@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556901334909",
+    "project_id": "posifood-thainara",
+    "storage_bucket": "posifood-thainara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556901334909:android:c7e4d7d225112bde31d614",
+        "android_client_info": {
+          "package_name": "br.com.up.posifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556901334909-jaq35u58sc80g9k49o5ei9bi3thlvl7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjbqes2XfRB2g2HZiYyiSifx9hDNzK4Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556901334909-jaq35u58sc80g9k49o5ei9bi3thlvl7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
